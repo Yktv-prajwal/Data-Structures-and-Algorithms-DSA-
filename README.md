@@ -1,6 +1,6 @@
 # 🚀 DSA Learning Journey
 
-Welcome to my Data Structures and Algorithms (DSA) repository! I created this space to document my learning process, track my daily progress, and maintain a centralized archive of algorithms and data structure implementations.
+Welcome to my Data Structures and Algorithms repository! I created this space to document my learning process, track my daily progress, and maintain a centralized archive of algorithms and data structure implementations.
 
 ## 🎯 Goals
 - Master core Data Structures (Arrays, Linked Lists, Trees, Graphs, etc.)
