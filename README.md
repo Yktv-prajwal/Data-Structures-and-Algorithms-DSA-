@@ -5,7 +5,7 @@ Welcome to my Data Structures and Algorithms repository! I created this space to
 ## 🎯 Goals
 - Master core Data Structures (Arrays, Linked Lists, Trees, Graphs, etc.)
 - Understand and apply algorithmic paradigms (Dynamic Programming, Greedy, Divide & Conquer)
-- Solve algorithmic problems efficiently (aiming for optimal Time and Space complexities)
+- Solve algorithmic problems efficiently.
 - Prepare for technical interviews.
 
 ## 💻 Tech Stack
